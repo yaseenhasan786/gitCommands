@@ -36,3 +36,9 @@ $ git clone https://github.com/yourUsername/yourReponame.git
 # add changes to your forked repo 
 # make a pull request!
 ```
+
+### Want to remove a file frome online github repo but keep it locally
+```sh
+$ git rm --cached localFileName
+# add localFileName to .gitignore file & then commit these changes
+```
