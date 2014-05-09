@@ -67,6 +67,7 @@ $ git push origin newBranchName # adds new branch to github repo
 
 # merging new branch to old branch
 $ git checkout oldBranchName
-$ git merge newBranchName  
+$ git merge newBranchName 
+$ git push origin oldBranchName 
 $ git branch -d newBranchName 
 ```
