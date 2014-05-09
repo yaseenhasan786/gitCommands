@@ -40,7 +40,7 @@ $ git pull # use this after someone else has made a change to the online repo
 ```
 
 ### Want to remove a file frome online github repo but keep it locally
-```sh
+``` sh
 $ git rm --cached localFileName
 # add localFileName to .gitignore file 
 # then commit these changes
@@ -48,16 +48,18 @@ $ git rm --cached localFileName
 ```
 
 ### Commands for fixing problems
-```sh
+``` sh
 # undo multiple commits  
-$ git reset --hard commitSHA###...= changes staging index and local folder to match online repository commit
+$ git reset --hard commitSHA###... # changes staging index and 
+                                   # local folder to match online 
+                                   # repository commit
 
 # removing 3 commits from online github repo
 $ git push -f origin HEAD^^^:branchNameToUndoLast3Pushs
 ```
 
 ### Branch Commands 
-```sh
+``` sh
 # creating a new branch
 $ git branch # list all branches in working folder  
 $ git branch newBranchName  
