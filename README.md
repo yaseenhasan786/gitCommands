@@ -28,3 +28,9 @@ $ git push
 ``` sh                      
 $ git remote set-url origin git@github.com:yourUsername/yourReponame.git
 ```
+
+### Working together from perspective of person that doesn't have the main repo
+``` sh
+# fork repo you want to work on
+$ git clone https://github.com/yourUsername/yourReponame.git
+```
