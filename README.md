@@ -1,7 +1,7 @@
 # Git Commands
 
 ### Creating a repository online for the <b>1st time</b>!
-```
+``` sh
 # navigated into your folder you want to put on Github
 $ touch README.md # initialize your git repository locally
 $ git init
@@ -13,7 +13,7 @@ $ git push -u origin master
 ```
 
 ### When adding on to your repository online with changes
-```
+``` sh
 $ git add .
 $ git commit -m 'what has changed'
 $ git push 
