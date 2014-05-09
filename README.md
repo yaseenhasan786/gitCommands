@@ -35,10 +35,23 @@ $ git remote set-url origin git@github.com:yourUsername/yourReponame.git
 $ git clone https://github.com/yourUsername/yourReponame.git
 # add changes to your forked repo 
 # make a pull request!
+$ git pull # use this after someone else has made a change to the online repo 
+           # your working on and you want to make your local repo up to date
 ```
 
 ### Want to remove a file frome online github repo but keep it locally
 ```sh
 $ git rm --cached localFileName
-# add localFileName to .gitignore file & then commit these changes
+# add localFileName to .gitignore file 
+# then commit these changes
+# push these changes to your repo!
+```
+
+### Commands for fixing problems
+```sh
+# undo multiple commits  
+$ git reset --hard commitSHA###...= changes staging index and local folder to match online repository commit
+
+# removing 3 commits from online github repo
+$ git push -f origin HEAD^^^:branchNameToUndoLast3Pushs
 ```
