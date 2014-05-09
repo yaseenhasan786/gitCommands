@@ -1,12 +1,12 @@
 # Git Commands
 
 ### Creating a repository online for the <b>1st time</b>!
-
 ```
-$ touch README.md
+# navigated into your folder you want to put on Github
+$ touch README.md # initialize your git repository locally
 $ git init
-$ git add README.md
-$ git commit -m "first commit"
+$ git add README.md . # adds everything changed from local to staging
+$ git commit -m "first commit" # commits everything in staging to be ready to be pushed to Github
 $ git remote add origin https://github.com/quinnliu/GitCommands.git
 $ git push -u origin master
 # put in username & password
