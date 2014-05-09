@@ -33,4 +33,6 @@ $ git remote set-url origin git@github.com:yourUsername/yourReponame.git
 ``` sh
 # fork repo you want to work on
 $ git clone https://github.com/yourUsername/yourReponame.git
+# add changes to your forked repo 
+# make a pull request!
 ```
