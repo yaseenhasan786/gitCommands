@@ -19,3 +19,8 @@ $ git commit -m 'what has changed'
 $ git push 
 # put in username & password
 ```
+
+### No more username & password input for every push
+``` sh                      
+$ git remote set-url origin git@github.com:yourUsername/yourReponame.git
+```
