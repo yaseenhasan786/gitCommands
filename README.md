@@ -72,4 +72,7 @@ $ git checkout oldBranchName
 $ git merge newBranchName 
 $ git push origin oldBranchName 
 $ git branch -d newBranchName 
+
+# set tracking with remote branch
+$ git branch --set-upstream-to=origin/BRANCH_NAME_HERE BRANCH_NAME_HERE
 ```
