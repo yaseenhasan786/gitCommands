@@ -6,19 +6,19 @@ Github.com [here](https://www.youtube.com/playlist?list=PLPXsMt57rLtgpwFBqZq4QKx
 ### Creating a repository online for the <b>1st time</b>!
 ``` sh
 # navigated into your folder you want to put on Github
-$ touch README.md # initialize your git repository locally
-$ git init
-$ git add README.md . # adds everything changed from local to staging
+$ touch README.md # create a file called README.md where you can put instructions/info about your folder like what you are reading right now!
+$ git init # initialize your git repository locally
+$ git add . # adds everything changed from local to staging
 $ git commit -m "first commit" # commits everything in staging to be ready to be pushed to Github
 $ git remote add origin https://github.com/quinnliu/GitCommands.git
-$ git push -u origin master
+$ git push -u origin master # the "-u" is so that the next time your push you don't need to type "origin master"
 # put in username & password
 ```
 
 ### When adding on to your repository online with changes
 ``` sh
 $ git add .
-$ git add -u # when you have deleted a local file you want to remove from your repo
+$ git add -u # when you have deleted a local file you want to remove from your repository
 $ git commit -m 'what has changed'
 $ git push 
 # put in username & password
