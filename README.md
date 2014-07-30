@@ -87,7 +87,7 @@ $ git branch --set-upstream-to=origin/BRANCH_NAME_HERE BRANCH_NAME_HERE
 - Miss Hannah Ho secretly loves ____________!
 - Mr. Daniel Intskirveli secretly loves ____________!
 - Miss Daphne Lambadariou secretly loves ____________!
-- Mr. Michael Lee Xie <3 secretly loves ____________!
+- Mr. Michael Lee Xie <3 secretly loves Mr. Quinn Liu!
 - Miss Samantha secretly loves ____________!
 - Mr. Josh Lewis secretly loves ____________!
 - Miss Sarah Pak secretly loves ____________!
