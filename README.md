@@ -27,7 +27,8 @@ $ git push
 ### No more username & password input for every push
 ``` sh   
 # Note that you must first generate a SSH key on your local computer and add it to your 
-# Github account before using the following command
+# Github account before using the following command. Follow the directions here:
+# https://help.github.com/articles/generating-ssh-keys
 $ git remote set-url origin git@github.com:yourUsername/yourReponame.git
 ```
 
