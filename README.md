@@ -80,18 +80,18 @@ $ git branch -d newBranchName
 $ git branch --set-upstream-to=origin/BRANCH_NAME_HERE BRANCH_NAME_HERE
 ```
 - ? Tom Preston-Werner replace this line with something else!!!
-- Mr. Prateek Arora replace this line with something else!!!
-- Miss Rachel Bauer replace this line with something else!!!
-- Mr. Green Choi replace this line with something else!!!
-- Mr. Aaron Himelman replace this line with something else!!!
-- Miss Hannah Ho replace this line with something else!!!
-- Mr. Daniel Intskirveli replace this line with something else!!!
-- Miss Daphne Lambadariou replace this line with something else!!!
-- Mr. Michael Lee Xie replace this line with something else!!!
-- Miss Samantha Lee replace this line with something else!!!
-- Mr. Josh Lewis replace this line with something else!!!
-- Miss Sarah Pak replace this line with something else!!!
-- Mr. Bill Rosenberg replace this line with something else!!!
-- Mr. Matt Schultheiss replace this line with something else!!!
-- Miss Charlie Song replace this line with something else!!!
-- Mr. Benji Xie replace this line with something else!!!
+- Mr. Prateek Arora secretly loves ____________!
+- Miss Rachel Bauer secretly loves ____________!
+- Mr. Green Choi secretly loves ____________!
+- Mr. Aaron Himelman secretly loves ____________!
+- Miss Hannah Ho secretly loves ____________!
+- Mr. Daniel Intskirveli secretly loves ____________!
+- Miss Daphne Lambadariou secretly loves ____________!
+- Mr. Michael Lee Xie secretly loves ____________!
+- Miss Samantha secretly loves ____________!
+- Mr. Josh Lewis secretly loves ____________!
+- Miss Sarah Pak secretly loves ____________!
+- Mr. Bill Rosenberg secretly loves ____________!
+- Mr. Matt Schultheiss secretly loves ____________!
+- Miss Charlie Song secretly loves ____________!
+- Mr. Benji Xie secretly loves ____________!
