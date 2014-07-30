@@ -79,7 +79,7 @@ $ git branch -d newBranchName
 # set tracking with remote branch
 $ git branch --set-upstream-to=origin/BRANCH_NAME_HERE BRANCH_NAME_HERE
 ```
-- ? Tom Preston-Werner replace this line with something else!!!
+- Tom Preston-Werner ewfwef
 - Mr. Prateek Arora secretly loves ____________!
 - Miss Rachel Bauer secretly loves ____________!
 - Mr. Green Choi secretly loves ____________!
