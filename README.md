@@ -79,19 +79,3 @@ $ git branch -d newBranchName
 # set tracking with remote branch
 $ git branch --set-upstream-to=origin/BRANCH_NAME_HERE BRANCH_NAME_HERE
 ```
-- Tom Preston-Werner ewfwef
-- Mr. Prateek Arora secretly loves ____________!
-- Miss Rachel Bauer secretly loves ____________!
-- Mr. Green Choi secretly loves ____________!
-- Mr. Aaron Himelman secretly loves ____________!
-- Miss Hannah Ho secretly loves ____________!
-- Mr. Daniel Intskirveli secretly loves ____________!
-- Miss Daphne Lambadariou secretly loves ____________!
-- Mr. Michael Lee Xie <3 secretly loves Mr. Quinn Liu!
-- Miss Samantha secretly loves ____________!
-- Mr. Josh Lewis secretly loves ____________!
-- Miss Sarah Pak secretly loves ____________!
-- Mr. Bill Rosenberg secretly loves ____________!
-- Mr. Matt Schultheiss secretly loves ____________!
-- Miss Charlie Song secretly loves ____________!
-- Mr. Benji Xie secretly loves ____________!
